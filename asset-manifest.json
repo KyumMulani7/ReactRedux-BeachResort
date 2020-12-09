@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactRedux-BeachResort/static/css/main.2c18f2e9.chunk.css",
-    "main.js": "/ReactRedux-BeachResort/static/js/main.ee107240.chunk.js",
-    "main.js.map": "/ReactRedux-BeachResort/static/js/main.ee107240.chunk.js.map",
+    "main.css": "/ReactRedux-BeachResort/static/css/main.7992f4f6.chunk.css",
+    "main.js": "/ReactRedux-BeachResort/static/js/main.0a2a0b82.chunk.js",
+    "main.js.map": "/ReactRedux-BeachResort/static/js/main.0a2a0b82.chunk.js.map",
     "runtime-main.js": "/ReactRedux-BeachResort/static/js/runtime-main.ac4e835d.js",
     "runtime-main.js.map": "/ReactRedux-BeachResort/static/js/runtime-main.ac4e835d.js.map",
-    "static/js/2.72c94897.chunk.js": "/ReactRedux-BeachResort/static/js/2.72c94897.chunk.js",
-    "static/js/2.72c94897.chunk.js.map": "/ReactRedux-BeachResort/static/js/2.72c94897.chunk.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/ReactRedux-BeachResort/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.090f08eb.chunk.js": "/ReactRedux-BeachResort/static/js/2.090f08eb.chunk.js",
+    "static/js/2.090f08eb.chunk.js.map": "/ReactRedux-BeachResort/static/js/2.090f08eb.chunk.js.map",
     "index.html": "/ReactRedux-BeachResort/index.html",
-    "static/css/main.2c18f2e9.chunk.css.map": "/ReactRedux-BeachResort/static/css/main.2c18f2e9.chunk.css.map",
-    "static/js/2.72c94897.chunk.js.LICENSE.txt": "/ReactRedux-BeachResort/static/js/2.72c94897.chunk.js.LICENSE.txt",
+    "static/css/2.6ef2fac9.chunk.css.map": "/ReactRedux-BeachResort/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.7992f4f6.chunk.css.map": "/ReactRedux-BeachResort/static/css/main.7992f4f6.chunk.css.map",
+    "static/js/2.090f08eb.chunk.js.LICENSE.txt": "/ReactRedux-BeachResort/static/js/2.090f08eb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ReactRedux-BeachResort/static/media/room-2.48c60181.jpeg",
     "static/media/details-1.c4851740.jpeg": "/ReactRedux-BeachResort/static/media/details-1.c4851740.jpeg",
     "static/media/details-2.dc89255d.jpeg": "/ReactRedux-BeachResort/static/media/details-2.dc89255d.jpeg",
@@ -31,8 +33,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ac4e835d.js",
-    "static/js/2.72c94897.chunk.js",
-    "static/css/main.2c18f2e9.chunk.css",
-    "static/js/main.ee107240.chunk.js"
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.090f08eb.chunk.js",
+    "static/css/main.7992f4f6.chunk.css",
+    "static/js/main.0a2a0b82.chunk.js"
   ]
 }
